@@ -55,7 +55,7 @@ interests:
   - Optimization of Decision Making to Manage Farm
 
 education:
-  - area: Ph.D. Biomatry
+  - area: Ph.D. in Biomatry
     institution: The University of Tokyo
     date_start: 2022-04-01
     date_end: 2025-03-31
@@ -63,7 +63,7 @@ education:
       Dessrtation on _Scaling Laws for Neural Language Models_. \\
       Supervised by [Prof. Hiroyoshi Iwata](http://lbm.ab.a.u-tokyo.ac.jp/~iwata/index_e.html). 
 
-  - area: M.Sc. Biomatry
+  - area: M.Sc. in Biomatry
     institution: Carnegie Mellon University
     date_start: 2020-04-01
     date_end: 2022-03-31
@@ -72,7 +72,7 @@ education:
       Supervised by [Prof. Hiroyoshi Iwata](http://lbm.ab.a.u-tokyo.ac.jp/~iwata/index_e.html). 
 
 
-  - area: B.Sc. Plant Molecular Biology
+  - area: B.Sc. in Plant Molecular Biology
     institution: Shinshu university
     date_start: 2016-04-01
     date_end: 2020-03-31
@@ -83,7 +83,7 @@ education:
 work:
   - position: Post Doctoral Resercher
     company_name: Laboratory of Field Phenomics, The University of Tokyo
-    company_url: 'https://ai.meta.com/'
+    company_url: 'https://lab.fieldphenomics.com'
     company_logo: ''
     date_start: 2025-04-01
     date_end: ''
@@ -147,7 +147,7 @@ awards:
     url: https://neurips.cc/
     date: '2025-09-03'
     awarder: PhenomUK
-    icon: hero/trophy
+    icon: hero/currency-pound
     summary: |
       Awarded for groundbreaking work on efficient training of large models.
   - title: AI Innovation Grant
