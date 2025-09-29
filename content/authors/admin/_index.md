@@ -60,7 +60,7 @@ education:
     date_start: 2022-04-01
     date_end: 2025-03-31
     summary: |
-      Dessrtation on _Scaling Laws for Neural Language Models_.
+      Dessrtation on _Scaling Laws for Neural Language Models_. \\
       Supervised by [Prof. Hiroyoshi Iwata](http://lbm.ab.a.u-tokyo.ac.jp/~iwata/index_e.html). 
 
   - area: M.Sc. Biomatry
@@ -68,7 +68,7 @@ education:
     date_start: 2020-04-01
     date_end: 2022-03-31
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_.
+      Thesis on _Scaling Laws for Neural Language Models_. \\
       Supervised by [Prof. Hiroyoshi Iwata](http://lbm.ab.a.u-tokyo.ac.jp/~iwata/index_e.html). 
 
 
@@ -77,7 +77,7 @@ education:
     date_start: 2016-04-01
     date_end: 2020-03-31
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_.
+      Thesis on _Scaling Laws for Neural Language Models_. \\
       Supervised by Prof. Nobuaki Hayashida. 
 
 work:
