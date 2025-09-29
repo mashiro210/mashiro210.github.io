@@ -60,14 +60,16 @@ education:
     date_start: 2022-04-01
     date_end: 2025-03-31
     summary: |
-      Dessrtation on _Scaling Laws for Neural Language Models_. Supervised by [Prof. Hiroyoshi Iwata](http://lbm.ab.a.u-tokyo.ac.jp/~iwata/index_e.html). 
+      Dessrtation on _Scaling Laws for Neural Language Models_.
+      Supervised by [Prof. Hiroyoshi Iwata](http://lbm.ab.a.u-tokyo.ac.jp/~iwata/index_e.html). 
 
   - area: M.Sc. Biomatry
     institution: Carnegie Mellon University
     date_start: 2020-04-01
     date_end: 2022-03-31
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by [Prof. Hiroyoshi Iwata](http://lbm.ab.a.u-tokyo.ac.jp/~iwata/index_e.html). 
+      Thesis on _Scaling Laws for Neural Language Models_.
+      Supervised by [Prof. Hiroyoshi Iwata](http://lbm.ab.a.u-tokyo.ac.jp/~iwata/index_e.html). 
 
 
   - area: B.Sc. Plant Molecular Biology
@@ -75,7 +77,8 @@ education:
     date_start: 2016-04-01
     date_end: 2020-03-31
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Nobuaki Hayashida. 
+      Thesis on _Scaling Laws for Neural Language Models_.
+      Supervised by Prof. Nobuaki Hayashida. 
 
 work:
   - position: Post Doctoral Resercher
