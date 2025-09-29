@@ -60,7 +60,7 @@ education:
     date_start: 2022-04-01
     date_end: 2025-03-31
     summary: |
-      Dessrtation on _Scaling Laws for Neural Language Models_. \\
+      Dessrtation on _Scaling Laws for Neural Language Models_.
       Supervised by [Prof. Hiroyoshi Iwata](http://lbm.ab.a.u-tokyo.ac.jp/~iwata/index_e.html). 
 
   - area: M.Sc. in Biomatry
@@ -68,7 +68,7 @@ education:
     date_start: 2020-04-01
     date_end: 2022-03-31
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. \\
+      Thesis on _Scaling Laws for Neural Language Models_.
       Supervised by [Prof. Hiroyoshi Iwata](http://lbm.ab.a.u-tokyo.ac.jp/~iwata/index_e.html). 
 
 
@@ -77,7 +77,7 @@ education:
     date_start: 2016-04-01
     date_end: 2020-03-31
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. \\
+      Thesis on _Scaling Laws for Neural Language Models_.
       Supervised by Prof. Nobuaki Hayashida. 
 
 work:
@@ -134,9 +134,9 @@ skills:
 
 languages:
   - name: English
-    percent: 100
+
   - name: Japanese
-    percent: 100
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -144,12 +144,12 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: PhenomUK Annual Conference Bursary Recipient  
-    url: https://neurips.cc/
+    url: https://phenomuk.org/uk-plant-phenomics-2025-conference/
     date: '2025-09-03'
     awarder: PhenomUK
     icon: hero/currency-pound
     summary: |
-      Awarded for groundbreaking work on efficient training of large models.
+      Up to 250 GBP for early career researchers and students to encourage joining conference not being minded caused by any financial barreir.
   - title: AI Innovation Grant
     url: https://www.nsf.gov/
     date: '2021-06-15'
