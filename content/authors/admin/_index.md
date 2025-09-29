@@ -14,7 +14,7 @@ pronouns: he/him
 
 # Status emoji
 status:
-  icon: 
+  icon: 🚜
 
 # Is this the primary user of the site?
 superuser: true
@@ -33,7 +33,7 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
+  - icon: hero/envelope
     url: 'mailto:mashiro@fieldphenomics.com'
     label: E-mail Me
   - icon: brands/github
@@ -78,16 +78,16 @@ education:
       Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Nobuaki Hayashida. 
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
+  - position: Post Doctoral Resercher
+    company_name: Laboratory of Field Phenomics, The University of Tokyo
     company_url: 'https://ai.meta.com/'
     company_logo: ''
-    date_start: 2020-01-01
+    date_start: 2025-04-01
     date_end: ''
     summary: |2-
       Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
+  - position: Research Assistant
+    company_name: Laboratory of Biometry and Bioinformatics, The University of Tokyo
     company_url: 'https://openai.com/'
     company_logo: ''
     date_start: 2019-06-01
@@ -140,10 +140,10 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Best Paper Award
+  - title: PhenomUK Annual Conference Bursary Recipient  
     url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
+    date: '2025-09-03'
+    awarder: PhenomUK
     icon: hero/trophy
     summary: |
       Awarded for groundbreaking work on efficient training of large models.
