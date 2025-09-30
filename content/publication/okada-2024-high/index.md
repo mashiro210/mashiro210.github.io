@@ -2,7 +2,7 @@
 title: 'High-throughput phenotyping of soybean biomass: Conventional trait estimation
   and novel latent feature extraction using UAV remote sensing and deep learning models'
 authors:
-- Mashiro Okada
+- admin
 - Clément Barras
 - Yusuke Toda
 - Kosuke Hamazaki
