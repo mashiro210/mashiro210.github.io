@@ -60,7 +60,7 @@ education:
     date_start: 2022-04-01
     date_end: 2025-03-31
     summary: |
-      Dessrtation on _Scaling Laws for Neural Language Models_.
+      Dessrtation title: _A Study on the Prediction of Soybean Canopy Structure and the Modeling of Its Weed Suppression Effects for Improving Breeding and Cultivation Management Efficiency_.
       Supervised by [Prof. Hiroyoshi Iwata](http://lbm.ab.a.u-tokyo.ac.jp/~iwata/index_e.html). 
 
   - area: M.Sc. in Biomatry
@@ -68,7 +68,7 @@ education:
     date_start: 2020-04-01
     date_end: 2022-03-31
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_.
+      Thesis title: _Development of a Model for Estimating Soybean Aboveground Traits from Remotely Sensed Images Using Deep Learning and Its Application to Genetic Analysis_.
       Supervised by [Prof. Hiroyoshi Iwata](http://lbm.ab.a.u-tokyo.ac.jp/~iwata/index_e.html). 
 
 
@@ -77,8 +77,8 @@ education:
     date_start: 2016-04-01
     date_end: 2020-03-31
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_.
-      Supervised by Prof. Nobuaki Hayashida. 
+      Thesis title _The quantitative trait of Brassica rapa and environmental effect in fields_.
+      Supervised by [Prof. Nobuaki Hayashida](https://researchmap.jp/read0051932?lang=en). 
 
 work:
   - position: Post Doctoral Resercher
@@ -87,16 +87,33 @@ work:
     company_logo: ''
     date_start: 2025-04-01
     date_end: ''
-    summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
+    summary: |
+      Supervisor: [Prof. Wei Guo](https://www.researchgate.net/profile/Wei-Guo-24).
   - position: Research Assistant
     company_name: Laboratory of Biometry and Bioinformatics, The University of Tokyo
-    company_url: 'https://openai.com/'
+    company_url: 'https://www.ut-biomet.org/home-english'
     company_logo: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
+    date_start: 2023-06-01
+    date_end: 2025-03-31
     summary: |
       Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+ - position: Research Assistant
+    company_name: Laboratory of Biometry and Bioinformatics, The University of Tokyo
+    company_url: 'https://www.ut-biomet.org/home-english'
+    company_logo: ''
+    date_start: 2023-06-01
+    date_end: 2025-03-31
+    summary: |
+      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+  - position: Curator
+    company_name: Kazusa DNA Research Institute
+    company_url: 'https://www.kazusa.or.jp/en/'
+    company_logo: ''
+    date_start: 2023-11-01
+    date_end: 2025-03-31
+    summary: |
+      Worked on collecting detail of DNA sequence and markers and gene annotation data from published papers to build database; [PlantGARDEN](https://plantgarden.jp/en/index).
+      Supervior: [Dr. Sachiko Isobe](https://www.researchgate.net/profile/Sachiko-Isobe) and [Dr. Hisako Ichihara](https://www.researchgate.net/profile/Hisako-Ichihara).
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
