@@ -115,32 +115,16 @@ skills:
       - name: Programming
         description: 'R, Python, bash, LaTex'
         percent: 100
-        icon: code-bracket
       - name: Computer Vision
         description: 'OpenCV, Open3D, Metashape, Multi spectral imaging'
         percent: 100
-        icon: chart-bar
       - name: Genetic Analysis
         description: 'Genomic Prediction, GWAS, QTL-Analysis'
         percent: 100
-        icon: {{< icon name="dna" pack="fas" >}}
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking in the Rockies
-        description: ''
-        percent: 80
-        icon: person-simple-walk
-      - name: Building Custom PCs
-        description: ''
-        percent: 90
-        icon: cpu-chip
-      - name: Sci-Fi Reading
-        description: ''
-        percent: 70
-        icon: book-open
-
+      - name: Deep Learning
+        description: 'Pytorch, Keras, YOLO, SAMGeo'
+        percent: 100
+  
 languages:
   - name: English
     percent: 100
