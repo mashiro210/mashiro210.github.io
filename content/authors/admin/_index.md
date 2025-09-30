@@ -97,14 +97,6 @@ work:
     date_end: 2025-03-31
     summary: |
       Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
- - position: Research Assistant
-    company_name: Laboratory of Biometry and Bioinformatics, The University of Tokyo
-    company_url: 'https://www.ut-biomet.org/home-english'
-    company_logo: ''
-    date_start: 2023-06-01
-    date_end: 2025-03-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
   - position: Curator
     company_name: Kazusa DNA Research Institute
     company_url: 'https://www.kazusa.or.jp/en/'
