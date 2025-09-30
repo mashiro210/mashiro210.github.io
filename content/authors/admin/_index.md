@@ -88,7 +88,7 @@ work:
     date_start: 2025-04-01
     date_end: ''
     summary: |
-      Supervisor: [Prof. Wei Guo](https://www.researchgate.net/profile/Wei-Guo-24).
+      PI: [Prof. Wei Guo](https://www.researchgate.net/profile/Wei-Guo-24).
   - position: Research Assistant
     company_name: Laboratory of Biometry and Bioinformatics, The University of Tokyo
     company_url: 'https://www.ut-biomet.org/home-english'
@@ -96,7 +96,7 @@ work:
     date_start: 2023-06-01
     date_end: 2025-03-31
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Worked on development .
   - position: Curator
     company_name: Kazusa DNA Research Institute
     company_url: 'https://www.kazusa.or.jp/en/'
@@ -104,7 +104,7 @@ work:
     date_start: 2023-11-01
     date_end: 2025-03-31
     summary: |
-      Worked on collecting detail of DNA sequence and markers and gene annotation data from published papers to build database; [PlantGARDEN](https://plantgarden.jp/en/index).
+      Worked on collecting detail of DNA sequence and markers and gene annotation data from published papers to build database; [PlantGARDEN](https://plantgarden.jp/en/index). \\
       Supervior: [Dr. Sachiko Isobe](https://www.researchgate.net/profile/Sachiko-Isobe) and [Dr. Hisako Ichihara](https://www.researchgate.net/profile/Hisako-Ichihara).
 
 # Skills
