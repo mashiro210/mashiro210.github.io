@@ -125,8 +125,7 @@ skills:
         description: 'Pytorch, Keras, YOLO, SAMGeo'
         percent: 100
   
-  hobbies:
-skills:
+hobbies:
   - name: Hobbies
     items:
       - name: Sking
