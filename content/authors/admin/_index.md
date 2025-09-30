@@ -123,7 +123,8 @@ skills:
       - name: Genetic Analysis
         description: 'Genomic Prediction, GWAS, QTL-Analysis'
         percent: 100
-        icon: <i class="fa-solid fa-dna"></i>
+        icon: dna
+        icon_pack: fa
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -159,7 +160,7 @@ awards:
     awarder: PhenomUK
     icon: hero/currency-pound
     summary: |
-      Up to 250 GBP for early career researchers and students to encourage joining conference not being minded caused by any financial barreir.
+      Up to £250 is available for early career researchers and students to encourage conference participation, ensuring that financial barriers do not prevent attendance.
   - title: AI Innovation Grant
     url: https://www.nsf.gov/
     date: '2021-06-15'
