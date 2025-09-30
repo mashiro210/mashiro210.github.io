@@ -110,7 +110,7 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Skills
     items:
       - name: Programming
         description: 'R, Python, bash, LaTex'
@@ -125,6 +125,15 @@ skills:
         description: 'Pytorch, Keras, YOLO, SAMGeo'
         percent: 100
   
+  hobbies:
+skills:
+  - name: Hobbies
+    items:
+      - name: Sking
+        percent: 100
+      - name: Cooking
+        percent: 100
+
 languages:
   - name: English
     percent: 100
@@ -144,20 +153,7 @@ awards:
     icon: hero/currency-pound
     summary: |
       Up to £250 is available for early career researchers and students to encourage conference participation, ensuring that financial barriers do not prevent attendance.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
-    icon: hero/currency-dollar
-    summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
-    icon: hero/academic-cap
-    summary: |
-      Recognized for contributions to scaling laws in deep learning.
+
 ---
 
 Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
