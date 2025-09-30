@@ -123,9 +123,7 @@ skills:
         percent: 100
       - name: Deep Learning
         description: 'Pytorch, Keras, YOLO, SAMGeo'
-        percent: 100
-  
-hobbies:
+        percent: 100 
   - name: Hobbies
     items:
       - name: Sking
