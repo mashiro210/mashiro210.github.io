@@ -22,7 +22,7 @@ abstract: High-throughput phenotyping serves as a framework to reduce chronologi
 
 links:
   - type: pdf
-  - url: https://spj.science.org/doi/epdf/10.34133/plantphenomics.0244
+    url: https://spj.science.org/doi/epdf/10.34133/plantphenomics.0244
   - type: Press release
-  - url: https://www.a.u-tokyo.ac.jp/topics/topics_20240903-1.html
+    url: https://www.a.u-tokyo.ac.jp/topics/topics_20240903-1.html
 ---
