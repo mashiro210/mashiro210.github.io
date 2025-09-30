@@ -123,7 +123,7 @@ skills:
       - name: Genetic Analysis
         description: 'Genomic Prediction, GWAS, QTL-Analysis'
         percent: 100
-        icon: Built with <i class="fa-solid fa-dna"></i> from Grav and Hugo
+        icon: {{< icon name="dna" pack="fas" >}}
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
