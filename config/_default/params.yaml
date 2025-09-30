@@ -59,8 +59,3 @@ features:
   privacy_pack:
     enable: false
 
-# icon
-icon:
-  pack:
-    - fab
-    
