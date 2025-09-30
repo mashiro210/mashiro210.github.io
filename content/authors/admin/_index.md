@@ -104,7 +104,7 @@ work:
     date_start: 2023-11-01
     date_end: 2025-03-31
     summary: |
-      Worked on collecting detail of DNA sequence and markers and gene annotation data from published papers to build database; [PlantGARDEN](https://plantgarden.jp/en/index). \\
+      Worked on collecting detail of DNA sequence and markers and gene annotation data from published papers to build database; [PlantGARDEN](https://plantgarden.jp/en/index).<br>
       Supervior: [Dr. Sachiko Isobe](https://www.researchgate.net/profile/Sachiko-Isobe) and [Dr. Hisako Ichihara](https://www.researchgate.net/profile/Hisako-Ichihara).
 
 # Skills
