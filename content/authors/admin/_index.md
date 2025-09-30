@@ -60,7 +60,7 @@ education:
     date_start: 2022-04-01
     date_end: 2025-03-31
     summary: |
-      Dessrtation title: _A Study on the Prediction of Soybean Canopy Structure and the Modeling of Its Weed Suppression Effects for Improving Breeding and Cultivation Management Efficiency_.
+      Dessrtation title: _A Study on the Prediction of Soybean Canopy Structure and the Modeling of Its Weed Suppression Effects for Improving Breeding and Cultivation Management Efficiency_.　<br>
       Supervised by [Prof. Hiroyoshi Iwata](http://lbm.ab.a.u-tokyo.ac.jp/~iwata/index_e.html). 
 
   - area: M.Sc. in Biomatry
@@ -68,7 +68,7 @@ education:
     date_start: 2020-04-01
     date_end: 2022-03-31
     summary: |
-      Thesis title: _Development of a Model for Estimating Soybean Aboveground Traits from Remotely Sensed Images Using Deep Learning and Its Application to Genetic Analysis_.
+      Thesis title: _Development of a Model for Estimating Soybean Aboveground Traits from Remotely Sensed Images Using Deep Learning and Its Application to Genetic Analysis_.　<br>
       Supervised by [Prof. Hiroyoshi Iwata](http://lbm.ab.a.u-tokyo.ac.jp/~iwata/index_e.html). 
 
 
@@ -77,7 +77,7 @@ education:
     date_start: 2016-04-01
     date_end: 2020-03-31
     summary: |
-      Thesis title _The quantitative trait of Brassica rapa and environmental effect in fields_.
+      Thesis title _The quantitative trait of Brassica rapa and environmental effect in fields_.　<br>
       Supervised by [Prof. Nobuaki Hayashida](https://researchmap.jp/read0051932?lang=en). 
 
 work:
@@ -112,18 +112,18 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python & PyTorch
-        description: ''
-        percent: 95
+      - name: Programming
+        description: 'R, Python, bash, LaTex'
+        percent: 100
         icon: code-bracket
-      - name: Machine Learning
-        description: ''
+      - name: Computer Vision
+        description: 'OpenCV, Open3D, Metashape, Multi spectral imaging'
         percent: 100
         icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
-        description: ''
-        percent: 85
-        icon: cloud
+      - name: Genetic Analysis
+        description: 'Genomic Prediction, GWAS, QTL-Analysis'
+        percent: 100
+        icon: fa-solid fa-dna
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
