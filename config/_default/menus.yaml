@@ -8,15 +8,18 @@ main:
   - name: Publications
     url: /#publications
     weight: 30
-  - name: Activities
-    url: /#activities
+  - name: Updates
+    url: /updates/
     weight: 35
-  - name: Experience
-    url: /#experience
+  - name: Presentations
+    url: /presentations/
     weight: 40
+  - name: Career
+    url: /experience/
+    weight: 45
   - name: CV
     url: /files/Mashiro_Okada_Academic_CV.pdf
-    weight: 45
+    weight: 50
   - name: Contact
     url: /#contact
-    weight: 50
+    weight: 60

@@ -60,12 +60,60 @@ body {
   background: #f1f4f1;
 }
 
-#activities {
+.latest-updates,
+.updates-feed {
   background: #f8f5ed;
 }
 
-#activities .prose strong {
+.latest-updates .prose h3,
+.updates-feed .prose h3,
+.presentations-page .prose h3 {
   color: var(--mashiro-indigo);
+}
+
+.latest-updates .prose h3,
+.updates-feed .prose h3 {
+  margin-top: 2.5rem;
+  padding-top: 0.4rem;
+  font-size: 1.05rem;
+  letter-spacing: 0.02em;
+}
+
+.latest-updates .prose h3:first-child,
+.updates-feed .prose h3:first-child {
+  margin-top: 0;
+}
+
+.updates-feed .prose h3 {
+  border-top: 1px solid rgba(36, 59, 100, 0.16);
+}
+
+.updates-feed .prose h3:first-child {
+  border-top: 0;
+}
+
+.presentations-page {
+  background: #fbfaf7;
+}
+
+.presentations-page .prose h3 {
+  margin-top: 3rem;
+  padding-bottom: 0.7rem;
+  border-bottom: 1px solid rgba(36, 59, 100, 0.18);
+  font-size: 1.35rem;
+}
+
+.presentations-page .prose p {
+  margin-top: 0.8rem;
+  margin-bottom: 1.55rem;
+}
+
+.presentations-page .prose strong {
+  color: var(--mashiro-indigo);
+}
+
+.career-intro {
+  background: #f8f5ed;
 }
 
 #experience {
@@ -133,14 +181,26 @@ html.dark #awards {
   background: #122019;
 }
 
-html.dark #activities {
+html.dark .latest-updates,
+html.dark .updates-feed,
+html.dark .career-intro {
   background: #151b25;
+}
+
+html.dark .presentations-page {
+  background: #0e1620;
 }
 
 html.dark #research .prose,
 html.dark #research .prose p,
-html.dark #activities .prose,
-html.dark #activities .prose p,
+html.dark .latest-updates .prose,
+html.dark .latest-updates .prose p,
+html.dark .updates-feed .prose,
+html.dark .updates-feed .prose p,
+html.dark .presentations-page .prose,
+html.dark .presentations-page .prose p,
+html.dark .career-intro .prose,
+html.dark .career-intro .prose p,
 html.dark #publications,
 html.dark #experience,
 html.dark #awards {
@@ -148,9 +208,16 @@ html.dark #awards {
 }
 
 html.dark #research .prose h3,
-html.dark #activities .prose h3,
-html.dark #activities .prose strong {
+html.dark .latest-updates .prose h3,
+html.dark .updates-feed .prose h3,
+html.dark .presentations-page .prose h3,
+html.dark .presentations-page .prose strong {
   color: #a9c9b5;
+}
+
+html.dark .updates-feed .prose h3,
+html.dark .presentations-page .prose h3 {
+  border-color: rgba(169, 201, 181, 0.2);
 }
 
 html.dark #publications a,

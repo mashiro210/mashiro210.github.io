@@ -1,5 +1,5 @@
 ---
-title: 'Experience'
+title: 'Career'
 date: 2023-10-24
 type: landing
 
@@ -10,8 +10,18 @@ design:
 
 # Page sections
 sections:
+  - block: markdown
+    content:
+      title: Career
+      subtitle: Research appointments, technical expertise, awards, and languages
+      text: |-
+        My work connects field phenotyping, UAV remote sensing, computer vision, crop modeling, and quantitative genetics. The appointments below are drawn from my latest academic CV.
+    design:
+      columns: '1'
+      css_class: career-intro
   - block: resume-experience
     content:
+      title: Professional Experience
       username: admin
     design:
       # Hugo date format

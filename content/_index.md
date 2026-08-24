@@ -58,38 +58,32 @@ sections:
       view: citation
 
   - block: markdown
-    id: activities
+    id: updates
     content:
-      title: Recent Academic Activities
-      subtitle: Presentations, service, and international exchange
+      title: Latest Updates
+      subtitle: Recent and upcoming research activities
       text: |-
-        ### Upcoming · Sep 2026
+        ### Upcoming · September 2026
 
-        _UAV Field Phenotyping Protocol: Toward Next-Generation Phenotyping from Field Mapping to Adaptive Observation_ — Japanese Society of Breeding, 150th Meeting.
+        I will present _UAV Field Phenotyping Protocol: Toward Next-Generation Phenotyping from Field Mapping to Adaptive Observation_ at the 150th Meeting of the Japanese Society of Breeding in Fukui.
 
-        ### Jun 2026
+        ### August 2026
 
-        _High Resolution Estimation of Sub-Canopy PAR for Low-Input Weed Management in Soybean_ — CIGR–EurAgEng World Congress, Turin. Session Chair for **AI-Driven Crop Phenotyping & Digital Twins**.
+        Co-instructor for a technical training session on AI tools and techniques for developing a database of medicinal plants with antimicrobial activity, organized by HEPHN.
 
-        ### Sep 2025
+        ### June 2026
 
-        _Spatio-Temporal Simulation of Canopy Light Environments in Soybean Fields Using UAV Remote Sensing and Ray Tracing_ — PhenomUK 3rd Annual Conference.
+        Presented research on high-resolution sub-canopy PAR estimation at the CIGR-EurAgEng World Congress in Turin and chaired the session **AI-Driven Crop Phenotyping & Digital Twins**.
 
-        ### Oct 2024
-
-        _Construction of a soybean growth model to achieve efficient weed control_ — International Plant Phenotyping Symposium 8. Selected as a top-five poster in the AI, Models, and Algorithms for Phenomics session.
-
-        ### Academic service
-
-        Reviewer for _Breeding Science_, _The Plant Phenome Journal_, and _Plant Phenomics_.
+        [View all updates →](/updates/) · [See all conference presentations →](/presentations/)
     design:
       columns: '1'
-      css_class: academic-activities
+      css_class: latest-updates
 
   - block: resume-experience
     id: experience
     content:
-      title: Experience
+      title: Professional Experience
       username: admin
     design:
       date_format: 'Jan 2006'

@@ -70,11 +70,13 @@ education:
 
 work:
   - position: Postdoctoral Researcher
-    company_name: Laboratory of Field Phenomics
+    company_name: Laboratory of Field Phenomics, The University of Tokyo
     company_url: https://lab.fieldphenomics.com
     date_start: 2025-04-01
     date_end: ''
     summary: |
+      Institute for Sustainable Agro-ecosystem Service, Graduate School of Agricultural and Life Sciences.
+
       Working on soybean weed-control optimization with KUBOTA and forest digital twins for carbon-credit evaluation. Supervised by Prof. Wei Guo.
   - position: Research Assistant
     company_name: Laboratory of Biometry and Bioinformatics, The University of Tokyo
