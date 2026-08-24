@@ -17,6 +17,9 @@ profiles:
   - icon: hero/envelope
     url: 'mailto:mashiro@fieldphenomics.com'
     label: Email Mashiro Okada
+  - icon: hero/document-arrow-down
+    url: /files/Mashiro_Okada_Academic_CV.pdf
+    label: Download Mashiro Okada's academic CV (PDF)
   - icon: brands/github
     url: https://github.com/mashiro210
     label: GitHub
