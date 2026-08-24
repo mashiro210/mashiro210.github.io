@@ -1,156 +1,134 @@
 ---
-# Display name
 title: Mashiro Okada
-
-# Name pronunciation (optional)
-name_pronunciation: ''
-
-# Full name (for SEO)
 first_name: Mashiro
 last_name: Okada
-
-# Pronouns (optional)
-pronouns: he/him
-
-# Status emoji
-status:
-  icon: 🚜
-
-# Is this the primary user of the site?
 superuser: true
-
-# Highlight the author in author lists? (true/false)
 highlight_name: true
 
-# Role/position/tagline
-role: Post Doctoral Researcher
+role: Postdoctoral Researcher · Field Phenomics
 
-# Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Laboratory of Field Phenomics, The University of Tokyo
+  - name: Laboratory of Field Phenomics
     url: https://lab.fieldphenomics.com
+  - name: The University of Tokyo
+    url: https://www.u-tokyo.ac.jp/en/
 
-# Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: hero/envelope
     url: 'mailto:mashiro@fieldphenomics.com'
-    label: E-mail Me
+    label: Email Mashiro Okada
   - icon: brands/github
     url: https://github.com/mashiro210
+    label: GitHub
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/mashiro-okada/
+    label: LinkedIn
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=7yW6TG8AAAAJ
+    label: Google Scholar
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-4286-9076
+    label: ORCID
   - icon: academicons/researchgate
     url: https://www.researchgate.net/profile/Mashiro-Okada
-
+    label: ResearchGate
 
 interests:
-  - High Throughput Plant Phenotyping
-  - Computer Vision
-  - Growth Prediction
-  - Optimization of Decision Making to Manage Farm
+  - High-throughput plant phenotyping
+  - UAV remote sensing
+  - Computer vision and 3D reconstruction
+  - Crop growth and light-environment modeling
+  - Quantitative genetics
+  - Agricultural robotics and AI systems
 
 education:
-  - area: Ph.D. in Biomatry
+  - area: PhD in Biometry
     institution: The University of Tokyo
     date_start: 2022-04-01
     date_end: 2025-03-31
     summary: |
-      Dessrtation title: _A Study on the Prediction of Soybean Canopy Structure and the Modeling of Its Weed Suppression Effects for Improving Breeding and Cultivation Management Efficiency_.　<br>
-      Supervised by [Prof. Hiroyoshi Iwata](http://lbm.ab.a.u-tokyo.ac.jp/~iwata/index_e.html). 
+      Dissertation: _A Study on the Prediction of Soybean Canopy Structure and the Modeling of Its Weed Suppression Effects for Improving Breeding and Cultivation Management Efficiency_.
 
-  - area: M.Sc. in Biomatry
-    institution: Carnegie Mellon University
+      Supervisor: Prof. Hiroyoshi Iwata. Focused on high-throughput phenotyping, statistical modeling, UAV remote sensing, and simulation with 3D data.
+  - area: MSc in Biometry
+    institution: The University of Tokyo
     date_start: 2020-04-01
     date_end: 2022-03-31
     summary: |
-      Thesis title: _Development of a Model for Estimating Soybean Aboveground Traits from Remotely Sensed Images Using Deep Learning and Its Application to Genetic Analysis_.　<br>
-      Supervised by [Prof. Hiroyoshi Iwata](http://lbm.ab.a.u-tokyo.ac.jp/~iwata/index_e.html). 
+      Thesis: _Development of a Model for Estimating Soybean Aboveground Traits from Remotely Sensed Images Using Deep Learning and Its Application to Genetic Analysis_.
 
-
-  - area: B.Sc. in Plant Molecular Biology
-    institution: Shinshu university
+      Supervisor: Prof. Hiroyoshi Iwata.
+  - area: BSc in Plant Molecular Biology
+    institution: Shinshu University
     date_start: 2016-04-01
     date_end: 2020-03-31
     summary: |
-      Thesis title _The quantitative trait of Brassica rapa and environmental effect in fields_.　<br>
-      Supervised by [Prof. Nobuaki Hayashida](https://researchmap.jp/read0051932?lang=en). 
+      Studied quantitative variation in _Brassica rapa_ and environmental effects under field conditions.
 
 work:
-  - position: Post Doctoral Resercher
-    company_name: Laboratory of Field Phenomics, The University of Tokyo
-    company_url: 'https://lab.fieldphenomics.com'
-    company_logo: ''
+  - position: Postdoctoral Researcher
+    company_name: Laboratory of Field Phenomics
+    company_url: https://lab.fieldphenomics.com
     date_start: 2025-04-01
     date_end: ''
     summary: |
-      PI: [Prof. Wei Guo](https://www.researchgate.net/profile/Wei-Guo-24).
+      Working on soybean weed-control optimization with KUBOTA and forest digital twins for carbon-credit evaluation. Supervised by Prof. Wei Guo.
   - position: Research Assistant
     company_name: Laboratory of Biometry and Bioinformatics, The University of Tokyo
-    company_url: 'https://www.ut-biomet.org/home-english'
-    company_logo: ''
-    date_start: 2023-06-01
+    company_url: https://sites.google.com/ut-biomet.org/lbm/home-english
+    date_start: 2022-08-01
     date_end: 2025-03-31
     summary: |
-      Worked on development .
+      Developed high-throughput phenotyping, statistical modeling, UAV remote-sensing, and 3D simulation methods for soybean weed-control optimization. Supervised by Prof. Hiroyoshi Iwata.
+  - position: Research Assistant
+    company_name: Taisho University
+    company_url: https://www.tais.ac.jp/
+    date_start: 2022-05-01
+    date_end: 2025-03-31
+    summary: |
+      Organized IoT-acquired weather data and developed accessible analysis frameworks for a flood-management project. Supervised by Prof. Naoya Furuta.
   - position: Curator
     company_name: Kazusa DNA Research Institute
-    company_url: 'https://www.kazusa.or.jp/en/'
-    company_logo: ''
-    date_start: 2023-11-01
+    company_url: https://www.kazusa.or.jp/en/
+    date_start: 2021-11-01
     date_end: 2025-03-31
     summary: |
-      Worked on collecting detail of DNA sequence and markers and gene annotation data from published papers to build database; [PlantGARDEN](https://plantgarden.jp/en/index).<br>
-      Supervior: [Dr. Sachiko Isobe](https://www.researchgate.net/profile/Sachiko-Isobe) and [Dr. Hisako Ichihara](https://www.researchgate.net/profile/Hisako-Ichihara).
+      Curated genomic data for Plant GARDEN, reading and analyzing more than 500 published papers to support database construction and quality.
 
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Skills
+  - name: Research toolkit
     items:
-      - name: Programming
-        description: 'R, Python, bash, LaTex'
+      - name: Programming and analysis
+        description: 'R, Python, Bash, TeX, LaTeX'
         percent: 100
-      - name: Computer Vision
-        description: 'OpenCV, Open3D, Metashape, Multi spectral imaging'
+      - name: Computer vision and remote sensing
+        description: 'PyTorch, Keras, YOLO, SAMGeo, OpenCV, Open3D, Metashape, NeRF Studio'
         percent: 100
-      - name: Genetic Analysis
-        description: 'Genomic Prediction, GWAS, QTL-Analysis'
+      - name: Quantitative genetics
+        description: 'Genomic prediction, GWAS, QTL analysis'
         percent: 100
-      - name: Deep Learning
-        description: 'Pytorch, Keras, YOLO, SAMGeo'
-        percent: 100 
-  - name: Hobbies
-    items:
-      - name: Sking
-        percent: 100
-      - name: Cooking
+      - name: Field phenomics
+        description: 'UAV imaging and LiDAR scanning, 3D reconstruction, crop growth modeling'
         percent: 100
 
 languages:
-  - name: English
-    percent: 100
   - name: Japanese
     percent: 100
+  - name: English
+    percent: 90
 
-
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: PhenomUK Annual Conference Bursary Recipient  
+  - title: PhenomUK Annual Conference Travel Bursary
     url: https://phenomuk.org/uk-plant-phenomics-2025-conference/
     date: '2025-09-03'
     awarder: PhenomUK
-    icon: hero/currency-pound
-    summary: |
-      Up to £250 is available for early career researchers and students to encourage conference participation, ensuring that financial barriers do not prevent attendance.
-
+    icon: hero/academic-cap
+  - title: Tetsuro Obara Tropical Environmental Program Scholarship
+    date: '2014-07-01'
+    awarder: Tamagawa Academy K-12 and The Essington School
+    icon: hero/globe-alt
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+I am a postdoctoral researcher at the Laboratory of Field Phenomics, The University of Tokyo, with six years of experience in soybean field phenomics. I combine UAV remote sensing, computer vision, statistical modeling, 3D simulation, and quantitative genetics to measure crop performance at scale and translate those measurements into practical insight for breeding and field management.
+
+My research focuses on soybean canopy structure, biomass, crop light environments, and the use of digital crop representations to support more sustainable agricultural decisions.

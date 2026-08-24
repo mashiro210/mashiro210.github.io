@@ -18,4 +18,10 @@ publishDate: '2025-09-30T02:43:40.678776Z'
 publication_types:
 - article-journal
 publication: '*International Journal of Environmental Research and Public Health*'
+hugoblox:
+  ids:
+    doi: 10.3390/ijerph19031228
+links:
+  - type: doi
+    url: https://doi.org/10.3390/ijerph19031228
 ---

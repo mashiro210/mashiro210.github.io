@@ -1,0 +1,191 @@
+:root {
+  --mashiro-ink: #172128;
+  --mashiro-indigo: #243b64;
+  --mashiro-green: #50705b;
+  --mashiro-ivory: #f7f4ed;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  color: var(--mashiro-ink);
+  background: #fbfaf7;
+}
+
+.mashiro-hero {
+  position: relative;
+  overflow: hidden;
+  background:
+    radial-gradient(circle at 82% 16%, rgba(80, 112, 91, 0.19), transparent 28rem),
+    linear-gradient(135deg, #f8f5ed 0%, #eef2f2 54%, #e8edf4 100%);
+}
+
+.mashiro-hero::after {
+  content: '';
+  position: absolute;
+  right: -8rem;
+  bottom: -10rem;
+  width: 28rem;
+  height: 28rem;
+  border: 1px solid rgba(36, 59, 100, 0.14);
+  border-radius: 50%;
+  box-shadow: 0 0 0 4rem rgba(36, 59, 100, 0.03), 0 0 0 8rem rgba(80, 112, 91, 0.025);
+  pointer-events: none;
+}
+
+.mashiro-hero h1 {
+  color: var(--mashiro-indigo);
+  letter-spacing: -0.04em;
+}
+
+.mashiro-hero img {
+  border: 5px solid rgba(255, 255, 255, 0.82);
+  box-shadow: 0 1.5rem 4rem rgba(24, 42, 54, 0.16);
+}
+
+#research {
+  background: #fbfaf7;
+}
+
+#research .prose h3 {
+  margin-top: 2.25rem;
+  color: var(--mashiro-indigo);
+  font-size: 1.12rem;
+  letter-spacing: -0.01em;
+}
+
+#publications {
+  background: #f1f4f1;
+}
+
+#activities {
+  background: #f8f5ed;
+}
+
+#activities .prose strong {
+  color: var(--mashiro-indigo);
+}
+
+#experience {
+  background: #ffffff;
+}
+
+#awards {
+  background: #f1f4f1;
+}
+
+.contact-panel {
+  background: var(--mashiro-indigo);
+  color: #f8fafc;
+}
+
+.contact-panel h2,
+.contact-panel .text-gray-900,
+.contact-panel .prose,
+.contact-panel .prose p,
+.contact-panel .prose a {
+  color: #f8fafc;
+}
+
+.contact-panel .prose a {
+  text-decoration-color: #a8c3ae;
+  text-underline-offset: 0.3em;
+}
+
+html.dark body {
+  color: #e7edf2;
+  background: #0b1118;
+}
+
+html.dark .mashiro-hero {
+  background:
+    radial-gradient(circle at 82% 16%, rgba(112, 158, 130, 0.2), transparent 28rem),
+    linear-gradient(135deg, #101823 0%, #121d22 54%, #17243a 100%);
+}
+
+html.dark .mashiro-hero::after {
+  border-color: rgba(169, 200, 255, 0.16);
+  box-shadow: 0 0 0 4rem rgba(169, 200, 255, 0.035), 0 0 0 8rem rgba(112, 158, 130, 0.03);
+}
+
+html.dark .mashiro-hero h1,
+html.dark .mashiro-hero h2,
+html.dark .mashiro-hero h3,
+html.dark .mashiro-hero .text-gray-900 {
+  color: #f4f7fa;
+}
+
+html.dark .mashiro-hero .text-gray-700,
+html.dark .mashiro-hero .text-gray-600,
+html.dark .mashiro-hero .text-gray-500 {
+  color: #c2cdd6;
+}
+
+html.dark #research,
+html.dark #experience {
+  background: #0e1620;
+}
+
+html.dark #publications,
+html.dark #awards {
+  background: #122019;
+}
+
+html.dark #activities {
+  background: #151b25;
+}
+
+html.dark #research .prose,
+html.dark #research .prose p,
+html.dark #activities .prose,
+html.dark #activities .prose p,
+html.dark #publications,
+html.dark #experience,
+html.dark #awards {
+  color: #d9e1e7;
+}
+
+html.dark #research .prose h3,
+html.dark #activities .prose h3,
+html.dark #activities .prose strong {
+  color: #a9c9b5;
+}
+
+html.dark #publications a,
+html.dark #experience a,
+html.dark #awards a {
+  color: #b8d0ff;
+}
+
+html.dark #experience .text-gray-900,
+html.dark #awards .text-gray-900,
+html.dark #publications .text-gray-900 {
+  color: #f1f5f8;
+}
+
+html.dark #experience .text-gray-500,
+html.dark #experience .text-gray-300,
+html.dark #awards .text-gray-500,
+html.dark #awards .text-gray-300,
+html.dark #publications .text-gray-500,
+html.dark #publications .text-gray-300 {
+  color: #b7c3cc;
+}
+
+html.dark .contact-panel {
+  background: #1a2a49;
+}
+
+nav a,
+button,
+a {
+  transition: color 160ms ease, background-color 160ms ease, border-color 160ms ease, transform 160ms ease;
+}
+
+@media (max-width: 768px) {
+  .mashiro-hero::after {
+    opacity: 0.55;
+  }
+}
