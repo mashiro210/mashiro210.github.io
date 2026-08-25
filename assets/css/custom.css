@@ -96,20 +96,40 @@ body {
   background: #fbfaf7;
 }
 
+.presentations-page .max-w-prose {
+  width: min(100%, 76rem);
+  max-width: 76rem;
+}
+
+.presentations-page .prose {
+  width: 100%;
+  max-width: none;
+  font-size: 1rem;
+  line-height: 1.72;
+}
+
 .presentations-page .prose h3 {
-  margin-top: 3rem;
-  padding-bottom: 0.7rem;
+  margin-top: 4rem;
+  padding-bottom: 0.8rem;
   border-bottom: 1px solid rgba(36, 59, 100, 0.18);
-  font-size: 1.35rem;
+  font-size: clamp(1.65rem, 3vw, 2.2rem);
+  letter-spacing: -0.03em;
 }
 
 .presentations-page .prose p {
-  margin-top: 0.8rem;
-  margin-bottom: 1.55rem;
+  margin: 0 0 1rem;
+  padding: 1rem 1.15rem;
+  border-left: 3px solid rgba(80, 112, 91, 0.42);
+  border-radius: 0 0.65rem 0.65rem 0;
+  background: rgba(255, 255, 255, 0.68);
 }
 
 .presentations-page .prose strong {
   color: var(--mashiro-indigo);
+}
+
+.presentations-page .prose em {
+  color: #2b3740;
 }
 
 .career-intro {
@@ -218,6 +238,25 @@ html.dark .presentations-page .prose strong {
 html.dark .updates-feed .prose h3,
 html.dark .presentations-page .prose h3 {
   border-color: rgba(169, 201, 181, 0.2);
+}
+
+html.dark .presentations-page .prose p {
+  border-left-color: rgba(169, 201, 181, 0.48);
+  background: rgba(255, 255, 255, 0.035);
+}
+
+html.dark .presentations-page .prose em {
+  color: #d9e1e7;
+}
+
+@media (max-width: 768px) {
+  .presentations-page .prose {
+    font-size: 0.95rem;
+  }
+
+  .presentations-page .prose p {
+    padding: 0.85rem 0.9rem;
+  }
 }
 
 html.dark #publications a,

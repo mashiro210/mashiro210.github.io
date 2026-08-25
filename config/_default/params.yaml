@@ -13,8 +13,8 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'Mashiro Okada is a field phenomics researcher working with UAV remote sensing, computer vision, crop growth modeling, and quantitative genetics.'
+    org_name: 'Laboratory of Field Phenomics, The University of Tokyo'
+    description: 'Mashiro Okada, PhD, is a postdoctoral researcher at the Laboratory of Field Phenomics, The University of Tokyo, specializing in UAV remote sensing, computer vision, crop growth modeling, and quantitative genetics.'
     twitter: ''
   analytics:
     google_analytics: ''
