@@ -14,6 +14,38 @@ body {
   background: #fbfaf7;
 }
 
+/* Keep every primary destination visible instead of collapsing it into a menu. */
+#site-header label[for='nav-toggle'] {
+  display: none !important;
+}
+
+#site-header #nav-menu {
+  display: flex !important;
+}
+
+@media (max-width: 1023px) {
+  #site-header #nav-menu {
+    order: 3;
+    width: 100%;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.1rem 0.25rem;
+    padding: 0.55rem 0 0.1rem;
+    text-align: center;
+  }
+
+  #site-header #nav-menu .nav-item {
+    flex: 0 0 auto;
+  }
+
+  #site-header #nav-menu .nav-link {
+    padding: 0.45rem 0.65rem;
+    font-size: 0.9rem;
+    line-height: 1.25;
+    white-space: nowrap;
+  }
+}
+
 .mashiro-hero {
   position: relative;
   overflow: hidden;
