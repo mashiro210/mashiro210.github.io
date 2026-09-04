@@ -6,7 +6,7 @@ main:
     url: /#research
     weight: 20
   - name: Publications
-    url: /#publications
+    url: /publications/
     weight: 30
   - name: Presentations
     url: /presentations/
@@ -15,7 +15,7 @@ main:
     url: /updates/
     weight: 40
   - name: CV
-    url: /files/Mashiro_Okada_Academic_CV.pdf
+    url: /files/mashiro_okada_academic_cv.pdf
     weight: 45
   - name: Contact
     url: /#contact

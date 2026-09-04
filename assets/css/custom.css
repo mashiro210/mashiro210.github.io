@@ -67,7 +67,8 @@ body {
 
 .latest-updates .prose h3,
 .updates-feed .prose h3,
-.presentations-page .prose h3 {
+.presentations-page .prose h3,
+.publications-page .prose h3 {
   color: var(--mashiro-indigo);
 }
 
@@ -92,23 +93,27 @@ body {
   border-top: 0;
 }
 
-.presentations-page {
+.presentations-page,
+.publications-page {
   background: #fbfaf7;
 }
 
-.presentations-page .max-w-prose {
+.presentations-page .max-w-prose,
+.publications-page .max-w-prose {
   width: min(100%, 76rem);
   max-width: 76rem;
 }
 
-.presentations-page .prose {
+.presentations-page .prose,
+.publications-page .prose {
   width: 100%;
   max-width: none;
   font-size: 1rem;
   line-height: 1.72;
 }
 
-.presentations-page .prose h3 {
+.presentations-page .prose h3,
+.publications-page .prose h3 {
   margin-top: 4rem;
   padding-bottom: 0.8rem;
   border-bottom: 1px solid rgba(36, 59, 100, 0.18);
@@ -116,7 +121,8 @@ body {
   letter-spacing: -0.03em;
 }
 
-.presentations-page .prose p {
+.presentations-page .prose p,
+.publications-page .prose p {
   margin: 0 0 1rem;
   padding: 1rem 1.15rem;
   border-left: 3px solid rgba(80, 112, 91, 0.42);
@@ -124,11 +130,13 @@ body {
   background: rgba(255, 255, 255, 0.68);
 }
 
-.presentations-page .prose strong {
+.presentations-page .prose strong,
+.publications-page .prose strong {
   color: var(--mashiro-indigo);
 }
 
-.presentations-page .prose em {
+.presentations-page .prose em,
+.publications-page .prose em {
   color: #2b3740;
 }
 
@@ -207,7 +215,8 @@ html.dark .career-intro {
   background: #151b25;
 }
 
-html.dark .presentations-page {
+html.dark .presentations-page,
+html.dark .publications-page {
   background: #0e1620;
 }
 
@@ -219,6 +228,8 @@ html.dark .updates-feed .prose,
 html.dark .updates-feed .prose p,
 html.dark .presentations-page .prose,
 html.dark .presentations-page .prose p,
+html.dark .publications-page .prose,
+html.dark .publications-page .prose p,
 html.dark .career-intro .prose,
 html.dark .career-intro .prose p,
 html.dark #publications,
@@ -231,30 +242,37 @@ html.dark #research .prose h3,
 html.dark .latest-updates .prose h3,
 html.dark .updates-feed .prose h3,
 html.dark .presentations-page .prose h3,
-html.dark .presentations-page .prose strong {
+html.dark .presentations-page .prose strong,
+html.dark .publications-page .prose h3,
+html.dark .publications-page .prose strong {
   color: #a9c9b5;
 }
 
 html.dark .updates-feed .prose h3,
-html.dark .presentations-page .prose h3 {
+html.dark .presentations-page .prose h3,
+html.dark .publications-page .prose h3 {
   border-color: rgba(169, 201, 181, 0.2);
 }
 
-html.dark .presentations-page .prose p {
+html.dark .presentations-page .prose p,
+html.dark .publications-page .prose p {
   border-left-color: rgba(169, 201, 181, 0.48);
   background: rgba(255, 255, 255, 0.035);
 }
 
-html.dark .presentations-page .prose em {
+html.dark .presentations-page .prose em,
+html.dark .publications-page .prose em {
   color: #d9e1e7;
 }
 
 @media (max-width: 768px) {
-  .presentations-page .prose {
+  .presentations-page .prose,
+  .publications-page .prose {
     font-size: 0.95rem;
   }
 
-  .presentations-page .prose p {
+  .presentations-page .prose p,
+  .publications-page .prose p {
     padding: 0.85rem 0.9rem;
   }
 }

@@ -103,7 +103,7 @@ sections:
       text: |-
         I welcome conversations about crop phenotyping, UAV remote sensing, computer vision, growth modeling, and their use in breeding or farm management.
 
-        [Download CV (PDF)](/files/Mashiro_Okada_Academic_CV.pdf) · [Email me](mailto:mashiro@fieldphenomics.com) · [GitHub](https://github.com/mashiro210) · [Google Scholar](https://scholar.google.com/citations?user=7yW6TG8AAAAJ) · [ORCID](https://orcid.org/0000-0002-4286-9076)
+        [Download CV (PDF)](/files/mashiro_okada_academic_cv.pdf) · [Email me](mailto:mashiro@fieldphenomics.com) · [GitHub](https://github.com/mashiro210) · [Google Scholar](https://scholar.google.com/citations?user=7yW6TG8AAAAJ) · [ORCID](https://orcid.org/0000-0002-4286-9076)
     design:
       columns: '1'
       css_class: contact-panel

@@ -44,7 +44,7 @@ sections:
 
         **Publication** — _High-throughput Phenotyping of Soybean Biomass: Conventional Trait Estimation and Novel Latent Feature Extraction Using UAV Remote Sensing and Deep Learning Models_ was published in _Plant Phenomics_.
 
-        [Browse all conference presentations →](/presentations/) · [Download the full academic CV →](/files/Mashiro_Okada_Academic_CV.pdf)
+        [Browse all conference presentations →](/presentations/) · [Download the full academic CV →](/files/mashiro_okada_academic_cv.pdf)
     design:
       columns: '1'
       css_class: updates-feed

@@ -18,7 +18,7 @@ profiles:
     url: 'mailto:mashiro@fieldphenomics.com'
     label: Email Mashiro Okada
   - icon: hero/document-arrow-down
-    url: /files/Mashiro_Okada_Academic_CV.pdf
+    url: /files/mashiro_okada_academic_cv.pdf
     label: Download Mashiro Okada's academic CV (PDF)
   - icon: brands/github
     url: https://github.com/mashiro210
@@ -75,8 +75,6 @@ work:
     date_start: 2025-04-01
     date_end: ''
     summary: |
-      Institute for Sustainable Agro-ecosystem Service, Graduate School of Agricultural and Life Sciences.
-
       Working on soybean weed-control optimization with KUBOTA and forest digital twins for carbon-credit evaluation. Supervised by Prof. Wei Guo.
   - position: Research Assistant
     company_name: Laboratory of Biometry and Bioinformatics, The University of Tokyo

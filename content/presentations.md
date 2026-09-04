@@ -89,7 +89,7 @@ sections:
         **ORAL · OCT · Online**<br>
         **M. Okada**, C. Barras, Y. Toda, Y. Ohmori, Y. Yamasaki, H. Takahashi, H. Takanashi, M. Tsuda, M. Hirai, H. Tsujimoto, A. Kaga, M. Nakazono, T. Fujiwara, and H. Iwata. _Deep Learning for Prediction of Soybean Biomass Based on UAV Remote Sensing Images._ 138th Meeting of the Japanese Society of Breeding, presentation 514.
 
-        [Download the full academic CV →](/files/Mashiro_Okada_Academic_CV.pdf)
+        [Download the full academic CV →](/files/mashiro_okada_academic_cv.pdf)
     design:
       columns: '1'
       css_class: presentations-page
