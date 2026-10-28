@@ -1,6 +1,6 @@
 ---
 title: ''
-date: 2026-08-24
+date: 2026-10-28
 type: landing
 
 design:
@@ -63,9 +63,13 @@ sections:
       title: Latest Updates
       subtitle: Recent and upcoming research activities
       text: |-
-        ### Upcoming · September 2026
+        ### Upcoming · November 2026
 
-        I will present _UAV Field Phenotyping Protocol: Toward Next-Generation Phenotyping from Field Mapping to Adaptive Observation_ at the 150th Meeting of the Japanese Society of Breeding in Fukui.
+        Co-author of two oral presentations at APFITA 2026 in Taipei, covering mixed-genotype soybean plant detection and position assignment, and potato stem counting in relation to tuber-size distribution.
+
+        ### September 2026
+
+        Presented _UAV Field Phenotyping Protocol: Toward Next-Generation Phenotyping from Field Mapping to Adaptive Observation_ at the 150th Meeting of the Japanese Society of Breeding in Fukui.
 
         ### August 2026
 

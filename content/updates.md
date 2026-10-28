@@ -1,6 +1,6 @@
 ---
 title: 'Updates'
-date: 2026-08-24
+date: 2026-10-28
 type: landing
 
 design:
@@ -12,9 +12,13 @@ sections:
       title: Updates
       subtitle: News, presentations, service, and research activity
       text: |-
-        ### Upcoming · September 2026
+        ### Upcoming · November 2026
 
-        **Conference presentation** — I will present _UAV Field Phenotyping Protocol: Toward Next-Generation Phenotyping from Field Mapping to Adaptive Observation_ with Wei Guo at the 150th Meeting of the Japanese Society of Breeding, Fukui Prefectural University.
+        **APFITA 2026, Taipei** — Co-author of two oral presentations: _Plant Detection and Position Assignment in Mixed-Genotype Soybean Stands_ and _Potato Stem Counting from UAV and Ground-Level Images and Its Relationship with Tuber-Size Distribution_.
+
+        ### September 2026
+
+        **Conference presentation** — Presented _UAV Field Phenotyping Protocol: Toward Next-Generation Phenotyping from Field Mapping to Adaptive Observation_ with Wei Guo at the 150th Meeting of the Japanese Society of Breeding, Fukui Prefectural University.
 
         ### August 2026
 
@@ -30,7 +34,7 @@ sections:
 
         ### 2026
 
-        **Academic service** — Began reviewing for _Breeding Science_ and _The Plant Phenome Journal_, while continuing as a reviewer for _Plant Phenomics_.
+        **Academic service** — Reviewed four manuscripts for _Plant Phenomics_ in 2026 and began reviewing for _Breeding Science_ and _The Plant Phenome Journal_.
 
         ### September 2025
 

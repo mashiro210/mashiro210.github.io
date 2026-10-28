@@ -1,6 +1,6 @@
 ---
 title: 'Conference Presentations'
-date: 2026-08-25
+date: 2026-10-28
 type: landing
 
 design:
@@ -13,6 +13,12 @@ sections:
       subtitle: Complete record, grouped by year
       text: |-
         ### 2026
+
+        **ORAL · NOV · Taipei, Taiwan**<br>
+        P. Sanghera, **M. Okada**, J. Burridge, S. Kimura, H. Iwata, and W. Guo. _Plant Detection and Position Assignment in Mixed-Genotype Soybean Stands._ The 16th International Conference of Asia-Pacific Federation for Information Technology in Agriculture (APFITA 2026).
+
+        **ORAL · NOV · Taipei, Taiwan**<br>
+        C. C. Chiang, Y. Imachi, **M. Okada**, S. Kamikawa, K. Tanaka, M. Miyauchi, K. Miyamoto, H. Iwata, J. Burridge, and W. Guo. _Potato Stem Counting from UAV and Ground-Level Images and Its Relationship with Tuber-Size Distribution._ The 16th International Conference of Asia-Pacific Federation for Information Technology in Agriculture (APFITA 2026).
 
         **ORAL · SEP · Fukui, Japan**<br>
         **M. Okada** and W. Guo. _UAV Field Phenotyping Protocol: Toward Next-Generation Phenotyping from Field Mapping to Adaptive Observation._ 150th Meeting of the Japanese Society of Breeding, Fukui Prefectural University.
