@@ -69,8 +69,6 @@ sections:
 
         C. C. Chiang, Y. Imachi, **M. Okada**, S. Kamikawa, K. Tanaka, M. Miyauchi, K. Miyamoto, H. Iwata, J. Burridge, and W. Guo. _Potato Stem Counting from UAV and Ground-Level Images and Its Relationship with Tuber-Size Distribution._ Oral presentation at the 16th International Conference of Asia-Pacific Federation for Information Technology in Agriculture (APFITA 2026), Taipei, Taiwan.
 
-        **Review status:** APFITA 2026 evaluated English abstract submissions through blind review. This was abstract-level review, not peer review of a full paper. [Official call for papers](https://www.taita.org.tw/news.php?func=view&id=123&subfunc=activity)
-
         ### September 2026
 
         Presented _UAV Field Phenotyping Protocol: Toward Next-Generation Phenotyping from Field Mapping to Adaptive Observation_ at the 150th Meeting of the Japanese Society of Breeding in Fukui.
