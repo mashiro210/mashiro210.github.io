@@ -65,9 +65,9 @@ sections:
       text: |-
         ### Upcoming · November 2026
 
-        **[1]** P. Sanghera, **M. Okada**, J. Burridge, S. Kimura, H. Iwata, and W. Guo. _Plant Detection and Position Assignment in Mixed-Genotype Soybean Stands._ Oral presentation at the 16th International Conference of Asia-Pacific Federation for Information Technology in Agriculture (APFITA 2026), Taipei, Taiwan.
+        P. Sanghera, **M. Okada**, J. Burridge, S. Kimura, H. Iwata, and W. Guo. _Plant Detection and Position Assignment in Mixed-Genotype Soybean Stands._ Oral presentation at the 16th International Conference of Asia-Pacific Federation for Information Technology in Agriculture (APFITA 2026), Taipei, Taiwan.
 
-        **[2]** C. C. Chiang, Y. Imachi, **M. Okada**, S. Kamikawa, K. Tanaka, M. Miyauchi, K. Miyamoto, H. Iwata, J. Burridge, and W. Guo. _Potato Stem Counting from UAV and Ground-Level Images and Its Relationship with Tuber-Size Distribution._ Oral presentation at the 16th International Conference of Asia-Pacific Federation for Information Technology in Agriculture (APFITA 2026), Taipei, Taiwan.
+        C. C. Chiang, Y. Imachi, **M. Okada**, S. Kamikawa, K. Tanaka, M. Miyauchi, K. Miyamoto, H. Iwata, J. Burridge, and W. Guo. _Potato Stem Counting from UAV and Ground-Level Images and Its Relationship with Tuber-Size Distribution._ Oral presentation at the 16th International Conference of Asia-Pacific Federation for Information Technology in Agriculture (APFITA 2026), Taipei, Taiwan.
 
         ### September 2026
 
