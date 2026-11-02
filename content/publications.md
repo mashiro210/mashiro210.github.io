@@ -1,6 +1,6 @@
 ---
 title: 'Publications'
-date: 2026-09-04
+date: 2026-11-02
 type: landing
 
 design:
@@ -10,8 +10,14 @@ sections:
   - block: markdown
     content:
       title: Publications
-      subtitle: Peer-reviewed articles and other scholarly work
+      subtitle: Research articles, preprints, and other scholarly work
       text: |-
+        ### 2026
+
+        **PREPRINT · OCT**<br>
+        J. Vajna-Jehle et al. (including **M. Okada**). _3Dtrees.earth: community research infrastructure for tree and forest analysis using close-range LiDAR data._ **arXiv**, 2610.37803 [cs.DL].
+        [arXiv](https://arxiv.org/abs/2610.37803)
+
         ### 2024
 
         **RESEARCH ARTICLE · SEP**<br>
